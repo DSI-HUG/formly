@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "defaultPriority": 1,
+        "categoryLabel": "Contraintes légales bloquantes"
+    },
+    {
+        "id": 2,
+        "defaultPriority": 2,
+        "categoryLabel": "Contraintes légales"
+    },
+    {
+        "id": 3,
+        "defaultPriority": 2,
+        "categoryLabel": "Contraintes institutionnelles"
+    },
+    {
+        "id": 4,
+        "defaultPriority": 1,
+        "categoryLabel": "Contraintes bloquantes taux horaire"
+    },
+    {
+        "id": 5,
+        "defaultPriority": 2,
+        "categoryLabel": "Règles de service"
+    },
+    {
+        "id": 6,
+        "defaultPriority": 2,
+        "categoryLabel": "Règles de planification"
+    },
+    {
+        "id": 7,
+        "defaultPriority": 2,
+        "categoryLabel": "Désirs collaborateurs"
+    }
+]

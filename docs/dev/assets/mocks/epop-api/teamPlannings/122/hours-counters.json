@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "initialCount": 47.55,
+        "personId": 1
+    },
+    {
+        "id": 2,
+        "initialCount": 88.15,
+        "personId": 2
+    },
+    {
+        "id": 3,
+        "initialCount": 84.97,
+        "personId": 3
+    },
+    {
+        "id": 4,
+        "initialCount": 84.92,
+        "personId": 4
+    },
+    {
+        "id": 5,
+        "initialCount": 63.82,
+        "personId": 5
+    },
+    {
+        "id": 6,
+        "initialCount": 63.2,
+        "personId": 6
+    },
+    {
+        "id": 7,
+        "initialCount": 71.82,
+        "personId": 7
+    },
+    {
+        "id": 8,
+        "initialCount": 96.21,
+        "personId": 8
+    },
+    {
+        "id": 9,
+        "initialCount": 90.45,
+        "personId": 9
+    },
+    {
+        "id": 10,
+        "initialCount": 43.3,
+        "personId": 10
+    },
+    {
+        "id": 11,
+        "initialCount": 87.73,
+        "personId": 11
+    },
+    {
+        "id": 12,
+        "initialCount": 66.40,
+        "personId": 12
+    },
+    {
+        "id": 13,
+        "initialCount": 83.54,
+        "personId": 13
+    },
+    {
+        "id": 14,
+        "initialCount": 49.80,
+        "personId": 14
+    },
+    {
+        "id": 15,
+        "initialCount": 73.73,
+        "personId": 15
+    },
+    {
+        "id": 16,
+        "initialCount": 94.93,
+        "personId": 16
+    },
+    {
+        "id": 17,
+        "initialCount": 95.83,
+        "personId": 17
+    },
+    {
+        "id": 18,
+        "initialCount": 96.80,
+        "personId": 18
+    },
+    {
+        "id": 19,
+        "initialCount": 66.03,
+        "personId": 19
+    },
+    {
+        "id": 20,
+        "initialCount": 99.35,
+        "personId": 20
+    },
+    {
+        "id": 21,
+        "initialCount": 97.38,
+        "personId": 21
+    },
+    {
+        "id": 22,
+        "initialCount": 24.34,
+        "personId": 22
+    },
+    {
+        "id": 23,
+        "initialCount": 68.49,
+        "personId": 23
+    }
+]

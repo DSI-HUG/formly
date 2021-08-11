@@ -1,0 +1,275 @@
+[
+    {
+        "id": 1,
+        "label": "Durée maximale de travail planifié",
+        "description": "La durée maximale de travail planifié est de 50h par semaine (du lundi au dimanche) pour tous les collaborateurs.",
+        "category": 1,
+        "weight": 1,
+        "isMandatory": true,
+        "isEnable": true
+    },
+    {
+        "id": 3,
+        "label": "Durée minimale de repos quotidien",
+        "description": "La durée de repos quotidien ne peut être réduite au-delà de 8h.",
+        "category": 1,
+        "weight": 1,
+        "isMandatory": true,
+        "isEnable": true
+    },
+    {
+        "id": 4,
+        "label": "Femmes enceintes: Durée quotidienne de travail maximum",
+        "description": "Pour les femmes enceintes ou allaitante, la durée du travail ne peut pas dépasser 9h/j, même si une durée supérieure était prévue par contrat. Donc aucun service de piquet ne peut être effectué.\t",
+        "category": 1,
+        "weight": 1,
+        "isMandatory": true,
+        "isEnable": true
+    },
+    {
+        "id": 5,
+        "label": "Femmes enceintes (8 semaines avant accouchement): Travail de nuit interdit",
+        "description": "Pour les femmes enceintes, durant les 8 semaines précédant l’accouchement, il ne peut pas y avoir de travail entre 20h et 6h\t",
+        "category": 1,
+        "weight": 1,
+        "isMandatory": true,
+        "isEnable": true
+    },
+    {
+        "id": 11,
+        "label": "Durée de travail",
+        "description": "Pour tous les collaborateurs (hors Médecins lissés) la semaine est de {nbOfDays} jours. Elle commence le lundi et se termine le dimanche. La durée de travail hebdomadaire est de {weekHours}heures..",
+        "category": 2,
+        "isEnable": true,
+        "params": {
+            "nbOfDays": 7,
+            "weekHours": 40
+        }
+    },
+    {
+        "id": 14,
+        "label": "Temps de travail maximum au piquet",
+        "description": "Le temps que le travailleur consacre au service de piquet n'excède pas {maxDays} jours par période de {periodWeek} semaines\t",
+        "params": {
+            "maxDays": 6,
+            "periodWeek": 4
+        },
+        "category": 2,
+        "isEnable": false,
+        "filtre": "Piquet"
+    },
+    {
+        "id": 16,
+        "description": "La durée de repos quotidien ne peut être réduite au-delà de 11h. La durée de repos quotidien est de 11h consécutives au minimum, elle peut être réduite une seule fois sur deux semaines pour autant que la moyenne sur deux semaines atteigne 11 heures\t",
+        "category": 2,
+        "label": "Durée minimale de repos quotidien",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Repos",
+        "isEnable": true
+    },
+    {
+        "id": 17,
+        "description": "Pas plus de {maxDays} jours de travail consécutifs.",
+        "params": {
+            "maxDays": 6
+        },
+        "category": 3,
+        "label": "Nombre de jours de travail consécutifs maximum",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Enchaînements",
+        "isEnable": true
+    },
+    {
+        "id": 18,
+        "label": "Vacances planifiées annuelles",
+        "description": "Intégration des informations du Macro-planning / Insertion des vacances planifiées annuelles\t",
+        "category": 4,
+        "isEnable": true
+    },
+    {
+        "id": 19,
+        "description": "Modèles horaires",
+        "category": 5,
+        "isEnable": true
+    },
+    {
+        "id": 20,
+        "description": "Demande collaborateur figée  (exemple : planning publié et le collaborateur demande une formation/code 24)\t",
+        "category": 5,
+        "label": "Saisie manuelles du collaborateur figées",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Figer",
+        "isEnable": true
+    },
+    {
+        "id": 21,
+        "description": "Saisie manuelles du planificateur figées.",
+        "category": 5,
+        "label": "Saisie manuelles du planificateur figées",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Figer",
+        "isEnable": true
+    },
+    {
+        "id": 24,
+        "description": "Maximum trois week-ends de travail consécutifs.",
+        "category": 5,
+        "label": "Nombre maximum de weekends consécutifs de travail",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Enchaînements, Weekends",
+        "isEnable": true
+    },
+    {
+        "id": 25,
+        "description": "Désirs prioritaires de Repos : Intégration des désirs individuels des collaborateurs. Les désirs peuvent être définis sur un jour précis dans une période de soumissions des désirs.\t",
+        "category": 5,
+        "label": "Intégration des désirs de repos des collaborateurs",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Désirs",
+        "isEnable": true
+    },
+    {
+        "id": 26,
+        "description": "Désirs prioritaires de Codes évènements : Intégration des désirs individuels des collaborateurs. Les désirs peuvent être définis sur un jour précis, sur une période donnée dans une période de soumissions des désirs.\t",
+        "category": 5,
+        "label": "Intégration des désirs d'événements des collaborateurs",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Désirs",
+        "isEnable": true
+    },
+    {
+        "id": 27,
+        "description": "Désirs prioritaires de Codes horaires : Intégration des désirs individuels des collaborateurs. Les désirs peuvent être définis sur un jour précis dans une période de soumissions des désirs.\t",
+        "category": 5,
+        "label": "Intégration des désirs de codes horaires des collaborateurs",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Désirs",
+        "isEnable": true
+    },
+    {
+        "id": 29,
+        "description": "Un minimum de {offDays} jours de congé sur une période de planification de {nbOfWeek} semaines\t",
+        "params": {
+            "offDays": 8,
+            "nbOfWeek": 4
+        },
+        "category": 6,
+        "label": "Nombre minimum de jours de repos hebdomadaires",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Repos",
+        "isEnable": true
+    },
+    {
+        "id": 33,
+        "description": "Si possible {offWeeks} week-end de congé (samedi et dimanche) par période de planification de {nbOfWeek} semaines.\t",
+        "params": {
+            "offWeeks": 2,
+            "nbOfWeek": 4
+        },
+        "category": 6,
+        "label": "Si possible, Nombre minimum de weekends complets de repos par période",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Repos, Weekends",
+        "isEnable": true
+    },
+    {
+        "id": 36,
+        "description": "Eviter les successions d'horaires du matin après un horaire du soir \t",
+        "category": 6,
+        "label": "Eviter les successions d'horaires du matin après un horaire du soir",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Enchaînements",
+        "isEnable": true
+    },
+    {
+        "id": 42,
+        "description": "Respect des saisies manuelles non-figées du planificateur\t",
+        "category": 6,
+        "label": "Saisie manuelles du planificateur non-figées",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Figer",
+        "isEnable": true
+    },
+    {
+        "id": 43,
+        "description": "Demande collaborateur non-figée  (exemple : planning publié et le collaborateur demande une formation/code 24)\t",
+        "category": 7,
+        "label": "Saisie manuelles du collaborateur non-figées",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Figer",
+        "isEnable": true
+    },
+    {
+        "id": 44,
+        "description": "Désirs non-prioritaires de Repos : Intégration des désirs individuels des collaborateurs. Les désirs peuvent être définis sur un jour précis dans une période de soumissions des désirs.\t",
+        "category": 7,
+        "label": "Intégration des désirs de repos des collaborateurs",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Désirs",
+        "isEnable": true
+    },
+    {
+        "id": 45,
+        "description": "Désirs non-prioritaires de Codes évènements : Intégration des désirs individuels des collaborateurs. Les désirs peuvent être définis sur un jour précis, sur une période donnée dans une période de soumissions des désirs.\t",
+        "category": 7,
+        "label": "Intégration des désirs d'événements des collaborateurs",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Désirs",
+        "isEnable": true
+    },
+    {
+        "id": 46,
+        "description": "Désirs non-prioritaires de Codes horaires : Intégration des désirs individuels des collaborateurs. Les désirs peuvent être définis sur un jour précis dans une période de soumissions des désirs.\t",
+        "category": 7,
+        "label": "Intégration des désirs de codes horaires des collaborateurs",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Désirs",
+        "isEnable": true
+    },
+    {
+        "id": 48,
+        "description": "Respect % activité, cible horaire et compteur solde",
+        "category": 4,
+        "label": "Respect du solde et de la cible horaire",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Solde et cible horaire",
+        "isEnable": true
+    },
+    {
+        "id": 49,
+        "description": "Succession d'horaire interdite",
+        "category": 5,
+        "label": "Succession d'horaire interdite",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Enchaînements",
+        "isEnable": true
+    },
+    {
+        "id": 52,
+        "description": "Pondération de l'importance des règles",
+        "category": 2,
+        "label": "Pondération de l'importance des règles",
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "filtre": "Pondération",
+        "isEnable": true
+    }
+]

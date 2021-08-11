@@ -1,0 +1,19 @@
+{
+    "id": 57887,
+    "roles": [
+        {
+            "id": 2,
+            "code": "PLANNER"
+        },
+        {
+            "id": 1,
+            "code": "COLLAB"
+        }
+    ],
+    "createdAt": "2020-11-20",
+    "firstName": "Christine",
+    "lastName": "Nader",
+    "avatarUrl": "https://i.pravatar.cc/150?img=5",
+    "matricule": "236 416",
+    "visa": "ZHGY"
+}

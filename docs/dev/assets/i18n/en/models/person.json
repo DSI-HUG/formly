@@ -1,0 +1,20 @@
+{
+    "status": {
+        "1": {"shortCode": "A", "color": "#00B2E3"},
+        "2": {"shortCode": "ME", "color": "#00B2E3"},
+        "3": {"shortCode": "MI", "color": "#00B2E3"},
+        "4": {"shortCode": "MP", "color": "#00B2E3"},
+        "5": {"shortCode": "P", "color": "#02DBAA"},
+        "6": {"shortCode": "PP", "color": "#00B2E3"},
+        "7": {"shortCode": "In", "color": "#00B2E3"}
+    },
+    "jobTitle": {
+        "1": "Medecin",
+        "2": "Infirmier",
+        "3": "Radiologiste"
+    },
+    "service": {
+        "1": "Medecine interne Urgence",
+        "2": ""
+    }
+}

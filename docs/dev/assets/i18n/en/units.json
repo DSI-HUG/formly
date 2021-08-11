@@ -1,0 +1,9 @@
+{
+    "title": "My teams",
+    "units": {
+        "team": "Team",
+        "code": "Code",
+        "eso": "Belonging ESO",
+        "planners": "Planners"
+    }
+}

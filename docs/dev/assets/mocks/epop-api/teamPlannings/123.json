@@ -1,0 +1,2402 @@
+{
+    "resourcePlannings": [
+        {
+            "id": 1,
+            "resource": {
+                "visa": "ALB",
+                "id": 1,
+                "lastName": "Blanda",
+                "firstName": "Alain",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=58",
+                "jobTitle": 1
+            },
+            "planning": {
+                "29-08-2020": {
+                    "dayType": "event",
+                    "id": 599913,
+                    "dayEvent": {
+                        "id": "599913",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "30-08-2020": {
+                    "dayType": "event",
+                    "id": 599914,
+                    "dayEvent": {
+                        "id": "599914",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "10-09-2020": {
+                    "dayType": "event",
+                    "id": 599925,
+                    "dayEvent": {
+                        "id": "599925",
+                        "shift": {
+                            "id": 36
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                }
+            }
+        },
+        {
+            "id": 2,
+            "resource": {
+                "visa": "BOU",
+                "id": 2,
+                "lastName": "Purdy",
+                "firstName": "Bertrand",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=2",
+                "jobTitle": 3
+            },
+            "planning": {}
+        },
+        {
+            "id": 3,
+            "resource": {
+                "visa": "CAR",
+                "id": 3,
+                "lastName": "Koelpin",
+                "firstName": "Christine",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=11",
+                "jobTitle": 3
+            },
+            "planning": {
+                "26-08-2020": {
+                    "dayType": "workAffectation",
+                    "id": 799910,
+                    "workAffectation": {
+                        "id": "799910",
+                        "shift": {
+                            "id": 4
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "27-08-2020": {
+                    "dayType": "workAffectation",
+                    "id": 799911,
+                    "workAffectation": {
+                        "id": "799911",
+                        "shift": {
+                            "id": 4
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "28-08-2020": {
+                    "dayType": "event",
+                    "id": 799912,
+                    "dayEvent": {
+                        "id": "799912",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "29-08-2020": {
+                    "dayType": "event",
+                    "id": 799913,
+                    "dayEvent": {
+                        "id": "799913",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "30-08-2020": {
+                    "dayType": "event",
+                    "id": 799914,
+                    "dayEvent": {
+                        "id": "799914",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "18-09-2020": {
+                    "dayType": "workAffectation",
+                    "id": 799933,
+                    "workAffectation": {
+                        "id": "799933",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "19-09-2020": {
+                    "dayType": "event",
+                    "id": 799934,
+                    "dayEvent": {
+                        "id": "799934",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "20-09-2020": {
+                    "dayType": "event",
+                    "id": 799935,
+                    "dayEvent": {
+                        "id": "799935",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                }
+            }
+        },
+        {
+            "id": 4,
+            "resource": {
+                "visa": "CAV",
+                "id": 4,
+                "lastName": "Schmitt",
+                "firstName": "Charlène",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=48",
+                "jobTitle": 4
+            },
+            "planning": {
+                "05-09-2020": {
+                    "dayType": "event",
+                    "id": 899920,
+                    "dayEvent": {
+                        "id": "899920",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "06-09-2020": {
+                    "dayType": "event",
+                    "id": 899921,
+                    "dayEvent": {
+                        "id": "899921",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "07-09-2020": {
+                    "dayType": "event",
+                    "id": 899922,
+                    "dayEvent": {
+                        "id": "899922",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "08-09-2020": {
+                    "dayType": "event",
+                    "id": 899923,
+                    "dayEvent": {
+                        "id": "899923",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "09-09-2020": {
+                    "dayType": "event",
+                    "id": 899924,
+                    "dayEvent": {
+                        "id": "899924",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "10-09-2020": {
+                    "dayType": "event",
+                    "id": 899925,
+                    "dayEvent": {
+                        "id": "899925",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "11-09-2020": {
+                    "dayType": "event",
+                    "id": 899926,
+                    "dayEvent": {
+                        "id": "899926",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "12-09-2020": {
+                    "dayType": "event",
+                    "id": 899927,
+                    "dayEvent": {
+                        "id": "899927",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "13-09-2020": {
+                    "dayType": "event",
+                    "id": 899928,
+                    "dayEvent": {
+                        "id": "899928",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                }
+            }
+        },
+        {
+            "id": 5,
+            "resource": {
+                "visa": "CON",
+                "id": 5,
+                "lastName": "Bartoletti",
+                "firstName": "Robyn",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=19",
+                "jobTitle": 3
+            },
+            "planning": {
+                "19-09-2020": {
+                    "dayType": "event",
+                    "id": 999934,
+                    "dayEvent": {
+                        "id": "999934",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "20-09-2020": {
+                    "dayType": "event",
+                    "id": 999935,
+                    "dayEvent": {
+                        "id": "999935",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                }
+            }
+        },
+        {
+            "id": 6,
+            "resource": {
+                "visa": "DELA",
+                "id": 6,
+                "lastName": "Friesen",
+                "firstName": "Cordia",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=29",
+                "jobTitle": 4
+            },
+            "planning": {
+                "29-08-2020": {
+                    "dayType": "workAffectation",
+                    "id": 1099913,
+                    "workAffectation": {
+                        "id": "1099913",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "30-08-2020": {
+                    "dayType": "workAffectation",
+                    "id": 1099914,
+                    "workAffectation": {
+                        "id": "1099914",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "05-09-2020": {
+                    "dayType": "event",
+                    "id": 1099920,
+                    "dayEvent": {
+                        "id": "1099920",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "06-09-2020": {
+                    "dayType": "event",
+                    "id": 1099921,
+                    "dayEvent": {
+                        "id": "1099921",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "07-09-2020": {
+                    "dayType": "workAffectation",
+                    "id": 1099922,
+                    "workAffectation": {
+                        "id": "1099922",
+                        "shift": {
+                            "id": 4
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "08-09-2020": {
+                    "dayType": "workAffectation",
+                    "id": 1099923,
+                    "workAffectation": {
+                        "id": "1099923",
+                        "shift": {
+                            "id": 4
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                }
+            }
+        },
+        {
+            "id": 7,
+            "resource": {
+                "visa": "DELP",
+                "id": 7,
+                "lastName": "Kessler",
+                "firstName": "Santa",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=55",
+                "jobTitle": 1
+            },
+            "planning": {
+                "10-09-2020": {
+                    "dayType": "event",
+                    "id": 1199925,
+                    "dayEvent": {
+                        "id": "1199925",
+                        "shift": {
+                            "id": 36
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "19-09-2020": {
+                    "dayType": "event",
+                    "id": 1199934,
+                    "dayEvent": {
+                        "id": "1199934",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "20-09-2020": {
+                    "dayType": "event",
+                    "id": 1199935,
+                    "dayEvent": {
+                        "id": "1199935",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                }
+            }
+        },
+        {
+            "id": 8,
+            "resource": {
+                "visa": "DUC",
+                "id": 8,
+                "lastName": "Heaney",
+                "firstName": "Robb",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=9",
+                "jobTitle": 1
+            },
+            "planning": {
+                "26-08-2020": {
+                    "dayType": "event",
+                    "id": 1299910,
+                    "dayEvent": {
+                        "id": "1299910",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "02-09-2020": {
+                    "dayType": "event",
+                    "id": 1299917,
+                    "dayEvent": {
+                        "id": "1299917",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "09-09-2020": {
+                    "dayType": "event",
+                    "id": 1299924,
+                    "dayEvent": {
+                        "id": "1299924",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "12-09-2020": {
+                    "dayType": "event",
+                    "id": 1299927,
+                    "dayEvent": {
+                        "id": "1299927",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "13-09-2020": {
+                    "dayType": "event",
+                    "id": 1299928,
+                    "dayEvent": {
+                        "id": "1299928",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "14-09-2020": {
+                    "dayType": "event",
+                    "id": 1299929,
+                    "dayEvent": {
+                        "id": "1299929",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "15-09-2020": {
+                    "dayType": "event",
+                    "id": 1299930,
+                    "dayEvent": {
+                        "id": "1299930",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "16-09-2020": {
+                    "dayType": "event",
+                    "id": 1299931,
+                    "dayEvent": {
+                        "id": "1299931",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "17-09-2020": {
+                    "dayType": "event",
+                    "id": 1299932,
+                    "dayEvent": {
+                        "id": "1299932",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "18-09-2020": {
+                    "dayType": "event",
+                    "id": 1299933,
+                    "dayEvent": {
+                        "id": "1299933",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "19-09-2020": {
+                    "dayType": "event",
+                    "id": 1299934,
+                    "dayEvent": {
+                        "id": "1299934",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "20-09-2020": {
+                    "dayType": "event",
+                    "id": 1299935,
+                    "dayEvent": {
+                        "id": "1299935",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                }
+            }
+        },
+        {
+            "id": 9,
+            "resource": {
+                "visa": "GRA",
+                "id": 9,
+                "lastName": "Kutch",
+                "firstName": "Dalton",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=70",
+                "jobTitle": 1
+            },
+            "planning": {
+                "12-09-2020": {
+                    "dayType": "event",
+                    "id": 1399927,
+                    "dayEvent": {
+                        "id": "1399927",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "13-09-2020": {
+                    "dayType": "event",
+                    "id": 1399928,
+                    "dayEvent": {
+                        "id": "1399928",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "14-09-2020": {
+                    "dayType": "event",
+                    "id": 1399929,
+                    "dayEvent": {
+                        "id": "1399929",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "15-09-2020": {
+                    "dayType": "event",
+                    "id": 1399930,
+                    "dayEvent": {
+                        "id": "1399930",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "16-09-2020": {
+                    "dayType": "event",
+                    "id": 1399931,
+                    "dayEvent": {
+                        "id": "1399931",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "17-09-2020": {
+                    "dayType": "event",
+                    "id": 1399932,
+                    "dayEvent": {
+                        "id": "1399932",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "18-09-2020": {
+                    "dayType": "event",
+                    "id": 1399933,
+                    "dayEvent": {
+                        "id": "1399933",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "19-09-2020": {
+                    "dayType": "event",
+                    "id": 1399934,
+                    "dayEvent": {
+                        "id": "1399934",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "20-09-2020": {
+                    "dayType": "event",
+                    "id": 1399935,
+                    "dayEvent": {
+                        "id": "1399935",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                }
+            }
+        },
+        {
+            "id": 10,
+            "resource": {
+                "visa": "LAU",
+                "id": 10,
+                "lastName": "Daniel",
+                "firstName": "Amalia",
+                "workingPercentage": 80,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=68",
+                "jobTitle": 4
+            },
+            "planning": {
+                "10-09-2020": {
+                    "dayType": "event",
+                    "id": 1499925,
+                    "dayEvent": {
+                        "id": "1499925",
+                        "shift": {
+                            "id": 36
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                }
+            }
+        },
+        {
+            "id": 11,
+            "resource": {
+                "visa": "LE C",
+                "id": 11,
+                "lastName": "Lowe",
+                "firstName": "Maud",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=5",
+                "jobTitle": 4
+            },
+            "planning": {
+                "24-08-2020": {
+                    "dayType": "event",
+                    "id": 159998,
+                    "dayEvent": {
+                        "id": "159998",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "25-08-2020": {
+                    "dayType": "event",
+                    "id": 159999,
+                    "dayEvent": {
+                        "id": "159999",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "26-08-2020": {
+                    "dayType": "event",
+                    "id": 1599910,
+                    "dayEvent": {
+                        "id": "1599910",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "27-08-2020": {
+                    "dayType": "event",
+                    "id": 1599911,
+                    "dayEvent": {
+                        "id": "1599911",
+                        "shift": {
+                            "id": -1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "28-08-2020": {
+                    "dayType": "event",
+                    "id": 1599912,
+                    "dayEvent": {
+                        "id": "1599912",
+                        "shift": {
+                            "id": -1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "29-08-2020": {
+                    "dayType": "event",
+                    "id": 1599913,
+                    "dayEvent": {
+                        "id": "1599913",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "30-08-2020": {
+                    "dayType": "event",
+                    "id": 1599914,
+                    "dayEvent": {
+                        "id": "1599914",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "31-08-2020": {
+                    "dayType": "workAffectation",
+                    "id": 1599915,
+                    "workAffectation": {
+                        "id": "1599915",
+                        "shift": {
+                            "id": 4
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                }
+            }
+        },
+        {
+            "id": 12,
+            "resource": {
+                "visa": "MAR",
+                "id": 12,
+                "lastName": "MacGyver",
+                "firstName": "Raven",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=50",
+                "jobTitle": 1
+            },
+            "planning": {}
+        },
+        {
+            "id": 13,
+            "resource": {
+                "visa": "MAS",
+                "id": 13,
+                "lastName": "Schaefer",
+                "firstName": "Louie",
+                "workingPercentage": 30,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=10",
+                "jobTitle": 4
+            },
+            "planning": {
+                "31-08-2020": {
+                    "dayType": "event",
+                    "id": 1799915,
+                    "dayEvent": {
+                        "id": "1799915",
+                        "shift": {
+                            "id": -1
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "01-09-2020": {
+                    "dayType": "event",
+                    "id": 1799916,
+                    "dayEvent": {
+                        "id": "1799916",
+                        "shift": {
+                            "id": -1
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "02-09-2020": {
+                    "dayType": "event",
+                    "id": 1799917,
+                    "dayEvent": {
+                        "id": "1799917",
+                        "shift": {
+                            "id": -1
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "03-09-2020": {
+                    "dayType": "event",
+                    "id": 1799918,
+                    "dayEvent": {
+                        "id": "1799918",
+                        "shift": {
+                            "id": -1
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "04-09-2020": {
+                    "dayType": "event",
+                    "id": 1799919,
+                    "dayEvent": {
+                        "id": "1799919",
+                        "shift": {
+                            "id": -1
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "05-09-2020": {
+                    "dayType": "event",
+                    "id": 1799920,
+                    "dayEvent": {
+                        "id": "1799920",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "06-09-2020": {
+                    "dayType": "event",
+                    "id": 1799921,
+                    "dayEvent": {
+                        "id": "1799921",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "07-09-2020": {
+                    "dayType": "event",
+                    "id": 1799922,
+                    "dayEvent": {
+                        "id": "1799922",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "08-09-2020": {
+                    "dayType": "event",
+                    "id": 1799923,
+                    "dayEvent": {
+                        "id": "1799923",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "09-09-2020": {
+                    "dayType": "event",
+                    "id": 1799924,
+                    "dayEvent": {
+                        "id": "1799924",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "10-09-2020": {
+                    "dayType": "event",
+                    "id": 1799925,
+                    "dayEvent": {
+                        "id": "1799925",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "11-09-2020": {
+                    "dayType": "event",
+                    "id": 1799926,
+                    "dayEvent": {
+                        "id": "1799926",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "12-09-2020": {
+                    "dayType": "event",
+                    "id": 1799927,
+                    "dayEvent": {
+                        "id": "1799927",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "13-09-2020": {
+                    "dayType": "event",
+                    "id": 1799928,
+                    "dayEvent": {
+                        "id": "1799928",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "14-09-2020": {
+                    "dayType": "workAffectation",
+                    "id": 1799929,
+                    "workAffectation": {
+                        "id": "1799929",
+                        "shift": {
+                            "id": 3
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                }
+            }
+        },
+        {
+            "id": 14,
+            "resource": {
+                "visa": "MUS",
+                "id": 14,
+                "lastName": "Paucek",
+                "firstName": "Mariusz",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=67",
+                "jobTitle": 2
+            },
+            "planning": {
+                "13-09-2020": {
+                    "dayType": "event",
+                    "id": 1899928,
+                    "dayEvent": {
+                        "id": "1899928",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "14-09-2020": {
+                    "dayType": "event",
+                    "id": 1899929,
+                    "dayEvent": {
+                        "id": "1899929",
+                        "shift": {
+                            "id": -1
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "15-09-2020": {
+                    "dayType": "event",
+                    "id": 1899930,
+                    "dayEvent": {
+                        "id": "1899930",
+                        "shift": {
+                            "id": -1
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "16-09-2020": {
+                    "dayType": "event",
+                    "id": 1899931,
+                    "dayEvent": {
+                        "id": "1899931",
+                        "shift": {
+                            "id": -1
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "17-09-2020": {
+                    "dayType": "event",
+                    "id": 1899932,
+                    "dayEvent": {
+                        "id": "1899932",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "18-09-2020": {
+                    "dayType": "event",
+                    "id": 1899933,
+                    "dayEvent": {
+                        "id": "1899933",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "19-09-2020": {
+                    "dayType": "event",
+                    "id": 1899934,
+                    "dayEvent": {
+                        "id": "1899934",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "20-09-2020": {
+                    "dayType": "event",
+                    "id": 1899935,
+                    "dayEvent": {
+                        "id": "1899935",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                }
+            }
+        },
+        {
+            "id": 15,
+            "resource": {
+                "visa": "OGU",
+                "id": 15,
+                "lastName": "Vandervort",
+                "firstName": "Olivier",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=61",
+                "jobTitle": 4
+            },
+            "planning": {
+                "24-08-2020": {
+                    "dayType": "event",
+                    "id": 199998,
+                    "dayEvent": {
+                        "id": "199998",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "25-08-2020": {
+                    "dayType": "event",
+                    "id": 199999,
+                    "dayEvent": {
+                        "id": "199999",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "26-08-2020": {
+                    "dayType": "event",
+                    "id": 1999910,
+                    "dayEvent": {
+                        "id": "1999910",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "27-08-2020": {
+                    "dayType": "event",
+                    "id": 1999911,
+                    "dayEvent": {
+                        "id": "1999911",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "28-08-2020": {
+                    "dayType": "event",
+                    "id": 1999912,
+                    "dayEvent": {
+                        "id": "1999912",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "29-08-2020": {
+                    "dayType": "event",
+                    "id": 1999913,
+                    "dayEvent": {
+                        "id": "1999913",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "30-08-2020": {
+                    "dayType": "event",
+                    "id": 1999914,
+                    "dayEvent": {
+                        "id": "1999914",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "31-08-2020": {
+                    "dayType": "event",
+                    "id": 1999915,
+                    "dayEvent": {
+                        "id": "1999915",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "01-09-2020": {
+                    "dayType": "event",
+                    "id": 1999916,
+                    "dayEvent": {
+                        "id": "1999916",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "02-09-2020": {
+                    "dayType": "event",
+                    "id": 1999917,
+                    "dayEvent": {
+                        "id": "1999917",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "03-09-2020": {
+                    "dayType": "event",
+                    "id": 1999918,
+                    "dayEvent": {
+                        "id": "1999918",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "04-09-2020": {
+                    "dayType": "event",
+                    "id": 1999919,
+                    "dayEvent": {
+                        "id": "1999919",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "05-09-2020": {
+                    "dayType": "event",
+                    "id": 1999920,
+                    "dayEvent": {
+                        "id": "1999920",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "06-09-2020": {
+                    "dayType": "event",
+                    "id": 1999921,
+                    "dayEvent": {
+                        "id": "1999921",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "07-09-2020": {
+                    "dayType": "event",
+                    "id": 1999922,
+                    "dayEvent": {
+                        "id": "1999922",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "08-09-2020": {
+                    "dayType": "event",
+                    "id": 1999923,
+                    "dayEvent": {
+                        "id": "1999923",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "09-09-2020": {
+                    "dayType": "event",
+                    "id": 1999924,
+                    "dayEvent": {
+                        "id": "1999924",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "10-09-2020": {
+                    "dayType": "event",
+                    "id": 1999925,
+                    "dayEvent": {
+                        "id": "1999925",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "11-09-2020": {
+                    "dayType": "event",
+                    "id": 1999926,
+                    "dayEvent": {
+                        "id": "1999926",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "12-09-2020": {
+                    "dayType": "event",
+                    "id": 1999927,
+                    "dayEvent": {
+                        "id": "1999927",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "13-09-2020": {
+                    "dayType": "event",
+                    "id": 1999928,
+                    "dayEvent": {
+                        "id": "1999928",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "14-09-2020": {
+                    "dayType": "event",
+                    "id": 1999929,
+                    "dayEvent": {
+                        "id": "1999929",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "15-09-2020": {
+                    "dayType": "event",
+                    "id": 1999930,
+                    "dayEvent": {
+                        "id": "1999930",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "16-09-2020": {
+                    "dayType": "event",
+                    "id": 1999931,
+                    "dayEvent": {
+                        "id": "1999931",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "17-09-2020": {
+                    "dayType": "event",
+                    "id": 1999932,
+                    "dayEvent": {
+                        "id": "1999932",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "18-09-2020": {
+                    "dayType": "event",
+                    "id": 1999933,
+                    "dayEvent": {
+                        "id": "1999933",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "19-09-2020": {
+                    "dayType": "event",
+                    "id": 1999934,
+                    "dayEvent": {
+                        "id": "1999934",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "20-09-2020": {
+                    "dayType": "event",
+                    "id": 1999935,
+                    "dayEvent": {
+                        "id": "1999935",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                }
+            }
+        },
+        {
+            "id": 16,
+            "resource": {
+                "visa": "OUI",
+                "id": 16,
+                "lastName": "Dach",
+                "firstName": "Adriana",
+                "workingPercentage": 80,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=36",
+                "jobTitle": 2
+            },
+            "planning": {
+                "29-08-2020": {
+                    "dayType": "event",
+                    "id": 2099913,
+                    "dayEvent": {
+                        "id": "2099913",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "30-08-2020": {
+                    "dayType": "event",
+                    "id": 2099914,
+                    "dayEvent": {
+                        "id": "2099914",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "31-08-2020": {
+                    "dayType": "event",
+                    "id": 2099915,
+                    "dayEvent": {
+                        "id": "2099915",
+                        "shift": {
+                            "id": 36
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "01-09-2020": {
+                    "dayType": "event",
+                    "id": 2099916,
+                    "dayEvent": {
+                        "id": "2099916",
+                        "shift": {
+                            "id": 36
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "02-09-2020": {
+                    "dayType": "event",
+                    "id": 2099917,
+                    "dayEvent": {
+                        "id": "2099917",
+                        "shift": {
+                            "id": 36
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "03-09-2020": {
+                    "dayType": "event",
+                    "id": 2099918,
+                    "dayEvent": {
+                        "id": "2099918",
+                        "shift": {
+                            "id": 36
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "04-09-2020": {
+                    "dayType": "event",
+                    "id": 2099919,
+                    "dayEvent": {
+                        "id": "2099919",
+                        "shift": {
+                            "id": 36
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "05-09-2020": {
+                    "dayType": "event",
+                    "id": 2099920,
+                    "dayEvent": {
+                        "id": "2099920",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "06-09-2020": {
+                    "dayType": "event",
+                    "id": 2099921,
+                    "dayEvent": {
+                        "id": "2099921",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                }
+            }
+        },
+        {
+            "id": 17,
+            "resource": {
+                "visa": "PER",
+                "id": 17,
+                "lastName": "Beahan",
+                "firstName": "Christine",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=46",
+                "jobTitle": 3
+            },
+            "planning": {
+                "24-08-2020": {
+                    "dayType": "event",
+                    "id": 219998,
+                    "dayEvent": {
+                        "id": "219998",
+                        "shift": {
+                            "id": 5
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "25-08-2020": {
+                    "dayType": "event",
+                    "id": 219999,
+                    "dayEvent": {
+                        "id": "219999",
+                        "shift": {
+                            "id": 5
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "26-08-2020": {
+                    "dayType": "event",
+                    "id": 2199910,
+                    "dayEvent": {
+                        "id": "2199910",
+                        "shift": {
+                            "id": 5
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "27-08-2020": {
+                    "dayType": "event",
+                    "id": 2199911,
+                    "dayEvent": {
+                        "id": "2199911",
+                        "shift": {
+                            "id": 5
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "28-08-2020": {
+                    "dayType": "event",
+                    "id": 2199912,
+                    "dayEvent": {
+                        "id": "2199912",
+                        "shift": {
+                            "id": 5
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "29-08-2020": {
+                    "dayType": "event",
+                    "id": 2199913,
+                    "dayEvent": {
+                        "id": "2199913",
+                        "shift": {
+                            "id": 5
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "30-08-2020": {
+                    "dayType": "event",
+                    "id": 2199914,
+                    "dayEvent": {
+                        "id": "2199914",
+                        "shift": {
+                            "id": 5
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "31-08-2020": {
+                    "dayType": "event",
+                    "id": 2199915,
+                    "dayEvent": {
+                        "id": "2199915",
+                        "shift": {
+                            "id": 5
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "01-09-2020": {
+                    "dayType": "event",
+                    "id": 2199916,
+                    "dayEvent": {
+                        "id": "2199916",
+                        "shift": {
+                            "id": 5
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "02-09-2020": {
+                    "dayType": "event",
+                    "id": 2199917,
+                    "dayEvent": {
+                        "id": "2199917",
+                        "shift": {
+                            "id": 5
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "03-09-2020": {
+                    "dayType": "event",
+                    "id": 2199918,
+                    "dayEvent": {
+                        "id": "2199918",
+                        "shift": {
+                            "id": 5
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                }
+            }
+        },
+        {
+            "id": 18,
+            "resource": {
+                "visa": "ROD",
+                "id": 18,
+                "lastName": "Treutel",
+                "firstName": "Robert",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=3",
+                "jobTitle": 2
+            },
+            "planning": {
+                "12-09-2020": {
+                    "dayType": "event",
+                    "id": 2299927,
+                    "dayEvent": {
+                        "id": "2299927",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "13-09-2020": {
+                    "dayType": "event",
+                    "id": 2299928,
+                    "dayEvent": {
+                        "id": "2299928",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "14-09-2020": {
+                    "dayType": "event",
+                    "id": 2299929,
+                    "dayEvent": {
+                        "id": "2299929",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "15-09-2020": {
+                    "dayType": "event",
+                    "id": 2299930,
+                    "dayEvent": {
+                        "id": "2299930",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "16-09-2020": {
+                    "dayType": "event",
+                    "id": 2299931,
+                    "dayEvent": {
+                        "id": "2299931",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "17-09-2020": {
+                    "dayType": "event",
+                    "id": 2299932,
+                    "dayEvent": {
+                        "id": "2299932",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "18-09-2020": {
+                    "dayType": "event",
+                    "id": 2299933,
+                    "dayEvent": {
+                        "id": "2299933",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "19-09-2020": {
+                    "dayType": "event",
+                    "id": 2299934,
+                    "dayEvent": {
+                        "id": "2299934",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "20-09-2020": {
+                    "dayType": "event",
+                    "id": 2299935,
+                    "dayEvent": {
+                        "id": "2299935",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                }
+            }
+        },
+        {
+            "id": 19,
+            "resource": {
+                "visa": "SAU",
+                "id": 19,
+                "lastName": "Koepp",
+                "firstName": "Samia",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=41",
+                "jobTitle": 1
+            },
+            "planning": {}
+        },
+        {
+            "id": 20,
+            "resource": {
+                "visa": "TRA",
+                "id": 20,
+                "lastName": "Osinski",
+                "firstName": "Thomas",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=31",
+                "jobTitle": 2
+            },
+            "planning": {
+                "10-09-2020": {
+                    "dayType": "event",
+                    "id": 2499925,
+                    "dayEvent": {
+                        "id": "2499925",
+                        "shift": {
+                            "id": 36
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "12-09-2020": {
+                    "dayType": "event",
+                    "id": 2499927,
+                    "dayEvent": {
+                        "id": "2499927",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "13-09-2020": {
+                    "dayType": "event",
+                    "id": 2499928,
+                    "dayEvent": {
+                        "id": "2499928",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "14-09-2020": {
+                    "dayType": "event",
+                    "id": 2499929,
+                    "dayEvent": {
+                        "id": "2499929",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "15-09-2020": {
+                    "dayType": "event",
+                    "id": 2499930,
+                    "dayEvent": {
+                        "id": "2499930",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "16-09-2020": {
+                    "dayType": "event",
+                    "id": 2499931,
+                    "dayEvent": {
+                        "id": "2499931",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "17-09-2020": {
+                    "dayType": "event",
+                    "id": 2499932,
+                    "dayEvent": {
+                        "id": "2499932",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "18-09-2020": {
+                    "dayType": "event",
+                    "id": 2499933,
+                    "dayEvent": {
+                        "id": "2499933",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "19-09-2020": {
+                    "dayType": "event",
+                    "id": 2499934,
+                    "dayEvent": {
+                        "id": "2499934",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                },
+                "20-09-2020": {
+                    "dayType": "event",
+                    "id": 2499935,
+                    "dayEvent": {
+                        "id": "2499935",
+                        "shift": {
+                            "id": 1
+                        },
+                        "isDesired": false,
+                        "isFrozen": true,
+                        "isPriority": false
+                    }
+                }
+            }
+        },
+        {
+            "id": 21,
+            "resource": {
+                "visa": "VAU",
+                "id": 21,
+                "lastName": "Arnaud",
+                "firstName": "Vincent",
+                "workingPercentage": 100,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=6",
+                "jobTitle": 2
+            },
+            "planning": {
+                "25-08-2020": {
+                    "dayType": "workAffectation",
+                    "id": 259999,
+                    "workAffectation": {
+                        "id": "259999",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "26-08-2020": {
+                    "dayType": "workAffectation",
+                    "id": 2599910,
+                    "workAffectation": {
+                        "id": "2599910",
+                        "shift": {
+                            "id": 2
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                }
+            }
+        },
+        {
+            "id": 22,
+            "resource": {
+                "visa": "WET",
+                "id": 22,
+                "lastName": "Tron",
+                "firstName": "Sylvie",
+                "workingPercentage": 90,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=45",
+                "jobTitle": 3
+            },
+            "planning": {
+                "27-08-2020": {
+                    "dayType": "event",
+                    "id": 2699911,
+                    "dayEvent": {
+                        "id": "2699911",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": false,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "09-09-2020": {
+                    "dayType": "event",
+                    "id": 2699924,
+                    "dayEvent": {
+                        "id": "2699924",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": false
+                    }
+                },
+                "10-09-2020": {
+                    "dayType": "event",
+                    "id": 2699925,
+                    "dayEvent": {
+                        "id": "2699925",
+                        "shift": {
+                            "id": 36
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "19-09-2020": {
+                    "dayType": "event",
+                    "id": 2699934,
+                    "dayEvent": {
+                        "id": "2699934",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                },
+                "20-09-2020": {
+                    "dayType": "event",
+                    "id": 2699935,
+                    "dayEvent": {
+                        "id": "2699935",
+                        "shift": {
+                            "id": 0
+                        },
+                        "isDesired": true,
+                        "isFrozen": false,
+                        "isPriority": true
+                    }
+                }
+            }
+        },
+        {
+            "id": 23,
+            "resource": {
+                "visa": "WIR",
+                "id": 23,
+                "lastName": "Yang",
+                "firstName": "Wang",
+                "workingPercentage": 70,
+                "service": 1,
+                "avatarUrl": "https://i.pravatar.cc/150?img=22",
+                "jobTitle": 3
+            },
+            "planning": {}
+        }
+    ],
+    "id": 2456,
+    "startDate": "2020-08-24T06:14:25.025Z",
+    "endDate": "2020-09-20T06:14:25.025Z"
+}

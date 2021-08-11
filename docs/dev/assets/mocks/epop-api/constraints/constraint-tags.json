@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "labelFr": "Durée de travail"
+    },
+    {
+        "id": 2,
+        "labelFr": "Enchaînements d'horaires"
+    },
+    {
+        "id": 3,
+        "labelFr": "Repos"
+    },
+    {
+        "id": 4,
+        "labelFr": "Weekends"
+    },
+    {
+        "id": 5,
+        "labelFr": "Femmes enceintes"
+    },
+    {
+        "id": 6,
+        "labelFr": "Piquets"
+    },
+    {
+        "id": 7,
+        "labelFr": "Travail de nuit"
+    },
+    {
+        "id": 8,
+        "labelFr": "Besoin en ressources"
+    },
+    {
+        "id": 9,
+        "labelFr": "Solde horaire"
+    },
+    {
+        "id": 10,
+        "labelFr": "Équité"
+    },
+    {
+        "id": 10,
+        "labelFr": "Vacances"
+    }
+]

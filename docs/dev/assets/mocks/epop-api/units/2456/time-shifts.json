@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "code": "T1",
+        "shiftType": "day",
+        "rgbTextColor": "#fff",
+        "rgbBackgroundColor": "#8a2be2",
+        "startTime": {
+            "hours": 8,
+            "minutes": 0
+        },
+        "endTime": {
+            "hours": 19,
+            "minutes": 0
+        },
+        "nbMinutesBreakDuration": 60,
+        "nbHoursShiftDuration": 10
+    },
+    {
+        "id": 2,
+        "code": "M1",
+        "shiftType": "morning",
+        "rgbTextColor": "#fff",
+        "rgbBackgroundColor": "#d2691f",
+        "startTime": {
+            "hours": 7,
+            "minutes": 0
+        },
+        "endTime": {
+            "hours": 15,
+            "minutes": 30
+        },
+        "nbMinutesBreakDuration": 30,
+        "nbHoursShiftDuration": 8
+    },
+    {
+        "id": 3,
+        "code": "S1",
+        "shiftType": "evening",
+        "rgbTextColor": "#fff",
+        "rgbBackgroundColor": "#fb7f50",
+        "startTime": {
+            "hours": 14,
+            "minutes": 30
+        },
+        "endTime": {
+            "hours": 23,
+            "minutes": 0
+        },
+        "nbMinutesBreakDuration": 29,
+        "nbHoursShiftDuration": 8
+    },
+    {
+        "id": 4,
+        "code": "N1",
+        "shiftType": "night",
+        "rgbTextColor": "#fff",
+        "rgbBackgroundColor": "#6495ed",
+        "startTime": {
+            "hours": 22,
+            "minutes": 30
+        },
+        "endTime": {
+            "hours": 7,
+            "minutes": 30
+        },
+        "nbMinutesBreakDuration": 0,
+        "nbHoursShiftDuration": 9
+    },
+    {
+        "id": 5,
+        "code": "J1",
+        "shiftType": "day",
+        "rgbTextColor": "#fff",
+        "rgbBackgroundColor": "#8fbc8f",
+        "startTime": {
+            "hours": 9,
+            "minutes": 0
+        },
+        "endTime": {
+            "hours": 17,
+            "minutes": 30
+        },
+        "nbMinutesBreakDuration": 30,
+        "nbHoursShiftDuration": 8
+    },
+    {
+        "id": 6,
+        "code": "P1",
+        "shiftType": "onCallDuty",
+        "rgbTextColor": "#fff",
+        "rgbBackgroundColor": "#808080",
+        "startTime": {
+            "hours": 19,
+            "minutes": 0
+        },
+        "endTime": {
+            "hours": 7,
+            "minutes": 0
+        },
+        "nbMinutesBreakDuration": 0,
+        "nbHoursShiftDuration": 1.8
+    }
+]

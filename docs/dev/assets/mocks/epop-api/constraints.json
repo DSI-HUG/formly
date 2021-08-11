@@ -1,0 +1,356 @@
+[
+    {
+        "id": 0,
+        "label": "Durée maximale de travail planifié",
+        "description": "La durée maximale de travail planifié est de 50h par semaine (du lundi au dimanche) pour tous les collaborateurs.",
+        "category": 1,
+        "isMandatory": true,
+        "isDuplicable": false,
+        "tags": [1]
+    },
+    {
+        "id": 1,
+        "label": "Jours de travail maximum consécutifs (légal)",
+        "description": "Le travailleur ne peut travailler plus de 7 jours consécutifs.",
+        "category": 1,
+        "isMandatory": true,
+        "isDuplicable": false,
+        "tags": [2, 1]
+    },
+    {
+        "id": 2,
+        "label": "Repos en cas de travail du dimanche",
+        "description": "En cas de travail du dimanche, un repos hebdomadaire de 47 heures consécutives minimum doit être observé au cours de la semaine précédente ou suivante. Un jour vacances ou férié ne peut se substituer au repos hebdomadaire.",
+        "category": 1,
+        "isMandatory": true,
+        "isDuplicable": false,
+        "tags": [3, 2, 4]
+    },
+    {
+        "id": 3,
+        "label": "Durée minimale de repos quotidien",
+        "description": "La durée de repos quotidien ne peut être réduite au-delà de 8h.",
+        "category": 1,
+        "isMandatory": true,
+        "isDuplicable": false,
+        "tags": [3]
+    },
+    {
+        "id": 4,
+        "label": "Femmes enceintes: Durée quotidienne de travail maximum",
+        "description": "Pour les femmes enceintes ou allaitante, la durée du travail ne peut pas dépasser 9h/j, même si une durée supérieure était prévue par contrat. Donc aucun service de piquet ne peut être effectué.\t",
+        "category": 1,
+        "isMandatory": true,
+        "isDuplicable": false,
+        "tags": [1, 5, 6]
+    },
+    {
+        "id": 5,
+        "label": "Femmes enceintes (8 semaines avant accouchement): Travail de nuit interdit",
+        "description": "Pour les femmes enceintes, durant les 8 semaines précédant l’accouchement, il ne peut pas y avoir de travail entre 20h et 6h\t",
+        "category": 1,
+        "isMandatory": true,
+        "isDuplicable": false,
+        "tags": [5, 7]
+    },
+    {
+        "id": 6,
+        "label": "Collaborateurs -18 ans: Travail de nuit et le dimanche interdit",
+        "description": "Les collaborateurs de moins de 18 ans ne peuvent pas être occupés la nuit et le dimanche",
+        "category": 1,
+        "isMandatory": true,
+        "isDuplicable": false,
+        "tags": [7]
+    },
+    {
+        "id": 7,
+        "label": "Collaborateurs -18 ans: Durée quotidienne de travail maximum",
+        "description": "Pour les collaborateurs de moins de 18 ans, la durée quotidienne du travail ne dépassera pas 9h. Cette durée comprend le travail supplémentaire et le temps consacré pendant les heures de travail aux cours obligatoires.",
+        "category": 1,
+        "isMandatory": true,
+        "isDuplicable": false,
+        "tags": [1]
+    },
+    {
+        "id": 8,
+        "label": "Collaborateurs -18 ans: Durée maximale de l'amplitude horaire",
+        "description": "Le travail de jour des collaborateurs de moins de 18 ans, pauses incluses, doit être compris dans un espace de 12h.",
+        "category": 1,
+        "isMandatory": true,
+        "isDuplicable": false,
+        "tags": []
+    },
+    {
+        "id": 9,
+        "label": "Collaborateurs -16 ans: Heure de fin de travail maximale",
+        "description": "Les jeunes travailleurs de moins de 16 ans révolus ne peuvent être occupés que jusqu'à 20h.",
+        "category": 1,
+        "isMandatory": true,
+        "isDuplicable": false,
+        "tags": []
+    },
+    {
+        "id": 10,
+        "label": "Collaborateurs -18 ans: Heure de fin de travail maximale",
+        "description": "Les jeunes travailleurs de moins de 18 ans révolus ne peuvent être occupés que jusqu'à 22h",
+        "category": 1,
+        "isMandatory": true,
+        "isDuplicable": false,
+        "tags": []
+    },
+    {
+        "id": 11,
+        "label": "Durée hebdomadaire de travail (hors médecins lissés)",
+        "description": "Pour tous les collaborateurs (hors Médecins lissés) la semaine est de 7 jours. Elle commence le lundi et se termine le dimanche. La durée de travail hebdomadaire est de 40h",
+        "category": 2,
+        "isMandatory": false,
+        "isDuplicable": false,
+        "tags": [1]
+    },
+    {
+        "id": 12,
+        "label": "Durée hebdomadaire de travail (médecins lissés)",
+        "description": "Pour les Médecins lissés, la semaine débute le samedi et se termine le vendredi. La période de référence du décompte des heures de travail est de deux semaines.\nLa durée de travail hebdomadaire est de 40h pour les CdC avec titre de spécialité et de 50h pour les médecins internes et les CdC sans titre de spécialité",
+        "category": 2,
+        "isDuplicable": false,
+        "tags": [1]
+    },
+    {
+        "id": 13,
+        "label": "Nombre minimum de dimanches de congés annuels",
+        "description": "En cas de travail du dimanche régulier, un minimum de 12 dimanches de congé par année doit être accordé. Ces derniers peuvent être répartis de manière irrégulière.\nLes dimanches tombant au cours des périodes de vacances ne peuvent être comptabilisés dans le nombre de dimanches de congé minimal par année, de même qu'au moins 1 dimanche contigue à une période de vacances.",
+        "category": 2,
+        "isDuplicable": false,
+        "tags": [4]
+    },
+    {
+        "id": 14,
+        "label": "Nombre maximum de jours de piquets par période (semaines)",
+        "description": "Le temps que le travailleur consacre au service de piquet n'excède pas 7 jours par période de 4 semaines",
+        "category": 2,
+        "isDuplicable": false,
+        "tags": [6]
+    },
+    {
+        "id": 15,
+        "label": "Durée minimale entre deux services de piquets",
+        "description": "Le travailleur ne peut être affecté à aucun service de piquet au cours des 2 semaines consécutives à son dernier service de piquet.",
+        "isDuplicable": false,
+        "category": 2,
+        "tags": [6, 2]
+    },
+    {
+        "id": 16,
+        "label": "Durée minimale de repos quotidien",
+        "description": "La durée de repos quotidien est de 11h consécutives au minimum, elle peut être réduite une seule fois sur deux semaines pour autant que la moyenne sur deux semaines atteigne 11 heures",
+        "isDuplicable": false,
+        "category": 2,
+        "tags": [3]
+    },
+    {
+        "id": 17,
+        "label": "Jours de travail maximum consécutifs (institutionnel)",
+        "description": "Pas plus de 6 jours de travail consécutifs",
+        "isDuplicable": false,
+        "category": 3,
+        "tags": [2, 1]
+    },
+    {
+        "id": 22,
+        "label": "Respect des besoins en effectif",
+        "description": "Respect du besoin en effectifs par code horaire, par compétences, lieux et activités",
+        "category": 5,
+        "isDuplicable": false,
+        "tags": [8]
+    },
+    {
+        "id": 23,
+        "label": "Respect des besoins en ETP",
+        "description": "Respect du nombre minmum d’ETP présents selon les règles établies pour le service / l’équipe",
+        "category": 5,
+        "isDuplicable": false,
+        "tags": [8]
+    },
+    {
+        "id": 24,
+        "label": "Nombre maximum de weekends consécutifs de travail",
+        "description": "Maximum {nbOfWeek} week-ends de travail consécutifs",
+        "params": {
+            "nbOfWeek": 3
+        },
+        "category": 5,
+        "isDuplicable": true,
+        "tags": [4]
+    },
+    {
+        "id": 28,
+        "label": "Ecart accepté pour la valeur du solde horaire",
+        "description": "Tendre à la remise à zero du solde horaire dans un intervalle d'écart de plus ou moins {nbHours}h.",
+        "params": {
+            "nbHours": 20
+        },
+        "category": 6,
+        "isDuplicable": true,
+        "tags": [9]
+    },
+    {
+        "id": 29,
+        "label": "Nombre minimum de jours de repos par période (semaines)",
+        "description": "Un minimum de 8 jours de congé sur une période de planification de 4 semaines",
+        "category": 6,
+        "isDuplicable": false,
+        "tags": [3]
+    },
+    {
+        "id": 30,
+        "label": "Série de nuits",
+        "description": "Pour les collaborateurs, le travail de nuit s’effectue le plus souvent par séries de {nbNight} nuits.",
+        "params": {
+            "nbNight": 1
+        },
+        "category": 6,
+        "isDuplicable": true,
+        "tags": [7, 2]
+        
+    },
+    {
+        "id": 31,
+        "label": "Respect de l’équité pour les horaires \"contraignants\"",
+        "description": "Respect de l'équité entre les collaborateurs selon le % de leur emploi (travail du matin, du soir, de nuit) et sur les horaires contraignants (Week-end, jours fériés et horaires typés nuit et piquet)",
+        "category": 6,
+        "tags": [10]
+        
+    },
+    {
+        "id": 32,
+        "label": "Nombre de jours de repos suite à un cycle de travail de nuit",
+        "description": "Un cycle de travail de {nbNights} nuit est toujours suivi de {nbDays} jours de repos (le jour qui suit la fin de l'horaire de nuit est considéré comme un jour de repos)",
+        "isDuplicable": true,
+        "params": {
+            "nbNights": 3,
+            "nbDays": 2
+        },
+        "category": 6,
+        "tags": [7, 3, 2]
+    },
+    {
+        "id": 33,
+        "label": "Nombre minimum de weekends de repos par période (semaines)",
+        "description": "Si possible {nbWeekend} week-end de congé (samedi et dimanche) par période de planification de {nbWeeks} semaines.",
+        "isDuplicable": true,
+        "params": {
+            "nbWeekend": 2,
+            "nbWeeks": 4
+        },
+        "category": 6,
+        "tags": [4]
+    },
+    {
+        "id": 34,
+        "label": "Nombre maximum de weekends travaillés par période",
+        "description": "Maximum un week-end sur {nbWeeks} travaillés",
+        "isDuplicable": true,
+        "params": {
+            "nbWeeks": 2
+        },
+        "category": 6,
+        "tags": [4]
+    },
+    {
+        "id": 35,
+        "label": "Eviter le ½ week-end de congé",
+        "description": "Eviter le ½ week-end de congé",
+        "isDuplicable": true,
+        "category": 6,
+        "tags": [4]
+    },
+    {
+        "id": 36,
+        "label": "Successions d'horaires du matin après un horaire du soir",
+        "description": "Eviter les successions d'horaires du matin après un horaire du soir",
+        "isDuplicable": false,
+        "category": 6,
+        "tags": [2]
+    },
+    {
+        "id": 37,
+        "label": "Jours de travail et de repos isolés",
+        "description": "Eviter les jours de travail et de repos isolés",
+        "isDuplicable": true,
+        "category": 6,
+        "tags": [3, 2]
+    },
+    {
+        "id": 38,
+        "label": "Nombre maximum de jours de travail sur un même lieu",
+        "description": "Pas plus de {nbDays} jours consécutifs ou par période de travail sur un même lieu",
+        "isDuplicable": true,
+        "params": {
+            "nbDays": 3
+        },
+        "category": 6,
+        "tags": [2]
+    },
+    {
+        "id": 39,
+        "label": "Privilégier un cycle de travail sur un même lieu",
+        "description": "Privilégier un cycle de travail sur un même lieu",
+        "isDuplicable": true,
+        "category": 6,
+        "tags": [2]
+    },
+    {
+        "id": 40,
+        "label": "Nombre maximum de jours de travail sur une même activité",
+        "description": "Pas plus de {nbDays} jours consécutifs ou par période de travail sur une même activité",
+        "params": {
+            "nbDays": 3
+        },
+        "isDuplicable": true,
+        "category": 6,
+        "tags": [2]
+    },
+    {
+        "id": 41,
+        "label": "Privilégier un cycle de travail sur une même activité",
+        "description": "Privilégier un cycle de travail sur une même activité",
+        "isDuplicable": true,
+        "category": 6,
+        "tags": [2]
+    },
+    {
+        "id": 48,
+        "label": "Respect % activité, cible horaire et compteur solde",
+        "description": "Respect % activité, cible horaire et compteur solde",
+        "isDuplicable": false,
+        "category": 4,
+        "tags": [9]
+    },
+    {
+        "id": 50,
+        "label": "Permettre le sureffectif",
+        "description": "Permettre un sureffectif de {nbPerson} personnes par besoin",
+        "params": {
+            "nbPerson": 2
+        },
+        "isDuplicable": false,
+        "category": 6,
+        "tags": [8]
+    },
+    {
+        "id": 51,
+        "label": "Respect des absences partielles",
+        "description": "Respect du % des absences partielles",
+        "isDuplicable": true,
+        "category": 2,
+        "tags": [1]
+    },
+    {
+        "id": 60,
+        "label": "Week-end de congés avant, pendant et après les vacances",
+        "description": "Les week-end (Samedi et dimanche) avant, pendant et après des semaines de vacances sont d'office octroyés en congé.",
+        "isDuplicable": false,
+        "category": 5,
+        "tags": [2, 10, 4]
+    }
+]

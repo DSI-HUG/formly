@@ -1,0 +1,56 @@
+[
+    {
+        "id": 2456,
+        "name": "Stérilisation centrale",
+        "eso": "U39910",
+        "planners": [
+            "Christine Nader",
+            "Lola Hahn"
+        ]
+    },
+    {
+        "id": 1310,
+        "name": "Stérilisation",
+        "eso": "U45817",
+        "planners": [
+            "Christine Nader",
+            "Mylene Bruen"
+        ]
+    },
+    {
+        "id": 5245,
+        "name": "Soins intensifs neurologie",
+        "eso": "U45642",
+        "planners": [
+            "Christine Nader",
+            "Kiley Eichmann"
+        ]
+    },
+    {
+        "id": 9520,
+        "name": "Soins intensifs cardiologie",
+        "eso": "U45716",
+        "planners": [
+            "Christine Nader",
+            "Rowan Hagenes"
+        ]
+    },
+    {
+        "id": 4767,
+        "name": "Soins intensifs polyvalent",
+        "eso": "U45007",
+        "planners": [
+            "Christine Nader",
+            "Trever Breitenberg"
+        ]
+    },
+    {
+        "id": 2406,
+        "name": "Soins intensifs médecine",
+        "eso": "U45790",
+        "planners": [
+            "Christine Nader",
+            "Jake Botsford"
+        ]
+    }
+]

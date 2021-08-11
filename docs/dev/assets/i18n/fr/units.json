@@ -1,0 +1,31 @@
+{
+    "title": "Mes Équipes",
+    "units": {
+        "team": "Equipe",
+        "code": "Code",
+        "eso": "ESO d’appartenance",
+        "planners": "Planificateurs"
+    },
+    "details": {
+        "title": "Détails de l'équipe",
+        "titleWithName": "Détails de l'équipe : {name}",
+        "informations": {
+            "title": "Informations"
+        },
+        "collaborators": {
+            "title": "Collaborateurs",
+            "placeholder": "Rechercher dans l’équipe",
+            "tableHeader": {
+                "collaboratorCell": " ",
+                "lastName": "Nom",
+                "firstName": "Prénom",
+                "gender": "Genre",
+                "service": "Département",
+                "jobTitle": "Fonction SEF",
+                "rate": "Taux horaire",
+                "age": "Age",
+                "skill": "Compétences"
+            }
+        }
+    }
+}

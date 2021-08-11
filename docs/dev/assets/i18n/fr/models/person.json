@@ -1,0 +1,48 @@
+{
+    "gender": {
+        "1": "Femme",
+        "2": "Homme",
+        "3": "Autres"
+    },
+    "age": {
+        "underAge": "Moins de {maxAge} ans",
+        "betweenAge": "Entre {minAge} et {maxAge} ans",
+        "moreThan": "Plus de {minAge} ans"
+    },
+    "status": {
+        "1": {"shortCode": "In", "label": "Inactif", "color": "#00B2E3"},
+        "2": {"shortCode": "P", "label": "Potentiel", "color": "#02DBAA"},
+        "3": {"shortCode": "ME", "label": "Multi-emplois", "color": "#00B2E3"},
+        "4": {"shortCode": "MI", "label": "Intérimaire", "color": "#00B2E3"},
+        "5": {"shortCode": "MP", "label": "Pool", "color": "#00B2E3"},
+        "6": {"shortCode": "A", "label": "Avenant", "color": "#00B2E3"},
+        "7": {"shortCode": "PP", "label": "Prêt", "color": "#00B2E3"}
+    },
+    "jobTitle": {
+        "1": "Régulateur sanitaire",
+        "2": "Gestionnaire de transferts",
+        "3": "Régulateur sanitaire",
+        "4": "Gestionnaire de transferts"
+    },
+    "serviceTitle": {
+        "1": "Département d'exploitation",
+        "2": "Département d'exploitation",
+        "3": "Département d'exploitation",
+        "4": "Département d'exploitation",
+        "5": "Département d'exploitation",
+        "6": "Département d'exploitation"
+    },
+    "service": {
+        "1": "Département d'exploitation",
+        "2": "Département d'exploitation",
+        "3": "Département d'exploitation",
+        "4": "Département d'exploitation",
+        "5": "Département d'exploitation",
+        "6": "Département d'exploitation"
+    },
+    "skill": {
+        "1": "Régulateur sanitaire",
+        "2": "Régulateur sanitaire",
+        "3": "Régulateur sanitaire"
+    }
+}

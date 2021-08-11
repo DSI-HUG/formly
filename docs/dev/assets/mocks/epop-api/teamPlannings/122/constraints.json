@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "constraintLibraryId": 1,
+        "weight": 1,
+        "priority": 1,
+        "isEnable": true
+    },
+    {
+        "id": 3,
+        "constraintLibraryId": 3,
+        "weight": 1,
+        "priority": 1,
+        "isEnable": true
+    },
+    {
+        "id": 4,
+        "constraintLibraryId": 4,
+        "weight": 1,
+        "priority": 1,
+        "isEnable": true
+    },
+    {
+        "id": 5,
+        "constraintLibraryId": 5,
+        "weight": 1,
+        "priority": 1,
+        "isEnable": true
+    },
+    {
+        "id": 11,
+        "constraintLibraryId": 11,
+        "isEnable": true,
+        "params": {
+            "nbOfDays": 7,
+            "weekHours": 40
+        }
+    },
+    {
+        "id": 14,
+        "constraintLibraryId": 14,
+        "params": {
+            "maxDays": 6,
+            "periodWeek": 4
+        },
+        "isEnable": false
+    },
+    {
+        "id": 16,
+        "constraintLibraryId": 16,
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "isEnable": true
+    },
+    {
+        "id": 17,
+        "constraintLibraryId": 17,
+        "params": {
+            "maxDays": 6
+        },
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "isEnable": true
+    },
+    {
+        "id": 24,
+        "constraintLibraryId": 24,
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "isEnable": true
+    },
+    {
+        "id": 29,
+        "constraintLibraryId": 29,
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "isEnable": true
+    },
+    {
+        "id": 33,
+        "constraintLibraryId": 33,
+        "params": {
+            "nbWeekend": 2,
+            "nbWeeks": 4
+        },
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "isEnable": true
+    },
+    {
+        "id": 36,
+        "constraintLibraryId": 36,
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "isEnable": true
+    },
+    {
+        "id": 48,
+        "constraintLibraryId": 48,
+        "startPeriod": "2020-08-24T06:14:25.025Z",
+        "endPeriod": "2020-09-20T06:14:25.025Z",
+        "isEnable": true
+    }
+]

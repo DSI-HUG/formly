@@ -1,0 +1,7 @@
+{
+    "navigateToDashboard": "Retour à l'accueil",
+    "messages": {
+        "404": "Page introuvable",
+        "403": "Page non authorisé"
+    }
+}

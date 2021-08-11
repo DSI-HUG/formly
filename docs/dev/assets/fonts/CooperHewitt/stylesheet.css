@@ -1,0 +1,110 @@
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('CooperHewitt-LightItalic.eot');
+    src: url('CooperHewitt-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('CooperHewitt-LightItalic.woff2') format('woff2'),
+        url('CooperHewitt-LightItalic.woff') format('woff'),
+        url('CooperHewitt-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt Book';
+    src: url('CooperHewitt-Book.eot');
+    src: url('CooperHewitt-Book.eot?#iefix') format('embedded-opentype'),
+        url('CooperHewitt-Book.woff2') format('woff2'),
+        url('CooperHewitt-Book.woff') format('woff'),
+        url('CooperHewitt-Book.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('CooperHewitt-Bold.eot');
+    src: url('CooperHewitt-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CooperHewitt-Bold.woff2') format('woff2'),
+        url('CooperHewitt-Bold.woff') format('woff'),
+        url('CooperHewitt-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('CooperHewitt-Light.eot');
+    src: url('CooperHewitt-Light.eot?#iefix') format('embedded-opentype'),
+        url('CooperHewitt-Light.woff2') format('woff2'),
+        url('CooperHewitt-Light.woff') format('woff'),
+        url('CooperHewitt-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('CooperHewitt-SemiboldItalic.eot');
+    src: url('CooperHewitt-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('CooperHewitt-SemiboldItalic.woff2') format('woff2'),
+        url('CooperHewitt-SemiboldItalic.woff') format('woff'),
+        url('CooperHewitt-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('CooperHewitt-MediumItalic.eot');
+    src: url('CooperHewitt-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('CooperHewitt-MediumItalic.woff2') format('woff2'),
+        url('CooperHewitt-MediumItalic.woff') format('woff'),
+        url('CooperHewitt-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt Book';
+    src: url('CooperHewitt-BookItalic.eot');
+    src: url('CooperHewitt-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('CooperHewitt-BookItalic.woff2') format('woff2'),
+        url('CooperHewitt-BookItalic.woff') format('woff'),
+        url('CooperHewitt-BookItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('CooperHewitt-Semibold.eot');
+    src: url('CooperHewitt-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('CooperHewitt-Semibold.woff2') format('woff2'),
+        url('CooperHewitt-Semibold.woff') format('woff'),
+        url('CooperHewitt-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('CooperHewitt-Medium.eot');
+    src: url('CooperHewitt-Medium.eot?#iefix') format('embedded-opentype'),
+        url('CooperHewitt-Medium.woff2') format('woff2'),
+        url('CooperHewitt-Medium.woff') format('woff'),
+        url('CooperHewitt-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('CooperHewitt-BoldItalic.eot');
+    src: url('CooperHewitt-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('CooperHewitt-BoldItalic.woff2') format('woff2'),
+        url('CooperHewitt-BoldItalic.woff') format('woff'),
+        url('CooperHewitt-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+

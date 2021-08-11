@@ -1,0 +1,14 @@
+{
+    "user-info": {
+        "COLLAB": "COLLAB",
+        "PLANNER": "PLANNER",
+        "unkown": "–"
+    },
+    "user-dialog": {
+        "profil": "Voir mon profil",
+        "formation": "formation",
+        "logout": "Se déconnecter",
+        "PLANNER": "espace collaborateur",
+        "COLLAB": "espace plannificateur"
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "title": "Planning : {{ unitName }}",
+    "messages": {
+        "error": "Erreur lors de la récupération du planning. Veuillez réessayer."
+    },
+    "teamList": {
+        "title": "Equipe {{ unitName }}",
+        "parameters": {
+            "title": "Paramètre d'affichage",
+            "zoomMode": {
+                "title": "Taille de la grille",
+                "normal": "Normale",
+                "compacted": "Compacte",
+                "ultraCompact": "Ultra compacte"
+            },
+            "sorting": {
+                "title": "Tri de l'équipe",
+                "byFirstName": "Par prénom",
+                "byLastName": "Par nom",
+                "byFunction": "Par fonction",
+                "byDefault": "Par défaut"
+            }
+        }
+    },
+    "planning": {
+        "planningConstraint": {
+            "title": "Contraintes",
+            "search": "Rechercher une contrainte",
+            "category": "Catégorie",
+            "description": "Description",
+            "filtre": "Filtre",
+            "params": "Paramètres de la contrainte",
+            "target": {
+                "label": "Cible",
+                "params": "Paramètres de la cible",
+                "values": {
+                    "fullTeam": "Toute l'équipe",
+                    "teamPart": "Partie de l'équipe"
+                },
+                "targetCount": "La contrainte sera actuellement appliquée à {{ targetCount }} collaborateur(s) de l'équipe.",
+                "emptyTarget": "Actuellement, aucun collaborateur de l'équipe ne correspont à vos critères."
+            },
+            "period": {
+                "label": "Période",
+                "values": {
+                    "full": "Toute la période",
+                    "custom": "Personnalisée"
+                },
+                "start": "A partir de (incl.)",
+                "end": "Jusqu'à (excl.)",
+                "errors": {
+                    "start": "Merci de renseigner la date de début.",
+                    "end": "Merci de renseigner la date de fin."
+                }
+            },
+            "weight": {
+                "label": "Poids",
+                "values": {
+                    "1": "Elevé",
+                    "2": "Moyen",
+                    "3": "Faible"
+                }
+            },
+            "priority": {
+                "label": "Priorité",
+                "overriden": "La priorité par défaut de cette contrainte a été modifiée à «{{ newPriority }}».",
+                "warning": "Rappel : La modification de la priorité de la contrainte doit être éviter au maximum.",
+                "values": {
+                    "1": "Bloquant",
+                    "2": "Non bloquant"
+                }
+            },
+            "delete": {
+                "confirmTitle": "Suppression d'un favori",
+                "confirmMessage": "Etes-vous sûr de vouloir supprimer la contrainte n°{{ constraintIndex }} ?"
+            },
+            "import": {
+                "label": "Importer une contrainte",
+                "importAction": "Importer {{ constraintCount }} contrainte(s)",
+                "index": "Contrainte n°{{ constraintIndex }}",
+                "errors": {
+                    "duplication": "Cette contrainte n'est pas duplicable"
+                }
+            },
+            "filters": {
+                "params": "Paramètrable",
+                "duplicated": "Duplicable",
+                "activated": "Activée",
+                "tags": "Type de contrainte"
+            }
+        },
+        "model": {
+            "planningType": {
+                "planned": "Planning publié",
+                "generated":  "Planning en préparation",
+                "onPreparation": "Planning en préparation",
+                "showPlanned": "Voir le planning publié",
+                "showOnPreparation": "Voir le planning en préparation",
+                "macroPlanning": "Macro-planning",
+                "periodicPlanning": "Plan périodique",
+                "editPeriod": "Modifier période"
+            },
+            "visualization": {
+                "modes": {
+                    "normal": "Normale",
+                    "compacted": "Compacte",
+                    "week": "1 semaine",
+                    "2weeks": "2 semaines",
+                    "3weeks": "3 semaines",
+                    "4weeks": "4 semaines"
+                }
+            }
+        },
+        "cellActions": {
+            "freeze": "Figer",
+            "unfreeze": "Défiger",
+            "desire": "Définir en tant que désir",
+            "undesire": "Annuler le désir",
+            "prioritize": "Définir en tant que priorité",
+            "unprioritize": "Annuler la priorité"
+        },
+        "affectations": {
+            "noAffectation": "Aucune affectation",
+            "new": {
+                "title": "Ajouter un élèment"
+            },
+            "modify": {
+                "title": "Modifier un élèment"
+            },
+            "model": {
+                "hours": "Horaires",
+                "eventHours": "Code événement",
+                "workHours": "Code horaire",
+                "eventHoursWithCode": "Code événement {{ code }}",
+                "workHoursWithCode": "Code horaire {{ code }}",
+                "quotaConstrainst": "Ressources requises",
+                "counters": {
+                    "label": "Compteurs",
+                    "hours": "Solde horaire"
+                }
+            }
+        },
+        "planningGeneratorDialog": {
+            "title": "Simuler le planning",
+            "period": "Période de simulation",
+            "start": "Début",
+            "end": "Fin",
+            "simulate": "Simuler",
+            "cancel": "Annuler",
+            "alreadyPlanned": "Prendre en compte les éléments déjà planifiés"
+        },
+        "planningPeriodDialog": {
+            "title": "Modifier la période",
+            "start": "Date de début",
+            "end": "Date de fin"
+        }
+    },
+    "requirements": {
+        "edit": {
+            "title": "Modifier le besoin en resources",
+            "titleNew": "Créer un besoin en resources",
+            "intro": "J'ai besoin d'un collaborateur :",
+            "shifts": "Faisant l'horaire",
+            "jobTitles": "Ayant la fonction SEF",
+            "requirements": {
+                "define": "Définir les besoins en resources"
+            },
+            "matrixDefinition": {
+                "title": "Définition du besoin",
+                "matrixDefinition": {
+                    "all": "Tous",
+                    "none": "Aucun",
+                    "evenWeek": "Semaines paires",
+                    "oddWeek": "Semaines impaires"
+                },
+                "applyGroupValues": "Appliquer"
+            }
+        },
+        "delete": {
+            "confirmTitle": "Suppression d'un besoin en resources",
+            "confirmMessage":  "Etes-vous sûr de vouloir supprimer le besoin suivant ?"
+        }
+    },
+    "units": {
+        "title": "Sélectionner une équipe"
+    }
+}
